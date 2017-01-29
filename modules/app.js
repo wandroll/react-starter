@@ -1,7 +1,8 @@
 import React from 'react'
+import Bootstrap from 'bootstrap/dist/css/bootstrap.css';
 
 export default React.createClass({
   render() {
-    return <div>Niort, j'adore.</div>
+    return <h1>Niort, j'adore.</h1>
   }
 })
